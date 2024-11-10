@@ -1,4 +1,4 @@
-package main 
+package main // every go program starts with a package declaration, it is a way to group and reuse related files
 
 import ( 
 	"fmt"
